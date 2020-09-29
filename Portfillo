@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Angel's Portfillo</title>
+	<style>
+		body {
+			background-image: url('download.jpeg');
+		}
+	</style>
+</head>
+
+<body>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+	<h1 style="color:white;text-align:center;">Portfillo</h1>
+	<style>
+		body {
+			text-align: center;
+		}
+	</style>
+
+	<body>
+		<https://www.youtube.com/watch?v=YI40qgh0LPk/>
+	</body>
+	</head>
+
+	<body>
+		<script src="script.js">
+		</script>
+	</body>
+
+</html>

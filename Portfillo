@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width">
-	<title>Angel's Portfillo</title>
+	<title>Angel's Portfolio</title>
 	<style>
 		body {
 			background-image: url('download.jpeg');
@@ -14,7 +14,7 @@
 
 <body>
 	<link href="style.css" rel="stylesheet" type="text/css" />
-	<h1 style="color:white;text-align:center;">Portfillo</h1>
+	<h1 style="color:white;text-align:center;">Portfolio</h1>
 	<style>
 		body {
 			text-align: center;
